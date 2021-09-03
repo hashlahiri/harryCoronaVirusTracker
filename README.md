@@ -1,2 +1,3 @@
-# harryCoronaVirusTracker
- Coronavirus Tracker using live git url fetch
+Coronavirus tracker
+FrontEnd: Bootstrap and jquery
+Backend: SpringBoot
